@@ -1,0 +1,73 @@
+Documento lista:
+
+Documentos Menores de idade: 
+* Identidade
+* CPF
+* Cartão do Sus ou Plano de Saúde
+* Cópia Identidade do Responsável
+* Ficha de Cadastro e Ficha médica
+* Autorização de Saída
+
+Documentos Maiores de idade: 
+* Identidade
+* CPF
+* Cartão do Sus ou Plano de Saúde
+* Ficha de Cadastro e Ficha médica
+
+Direção Masculino: (Maiores de idade)
+- RÚBEM VIEIRA: Tudo
+- ESDRAS FERNANDO: OK
+- JOÃO PEDRO: Certidão de nascimento, Identidade, Sus
+- CARLOS EDUARDO: Certidão de nascimento
+- ANDRÉ DOS SANTOS: Tudo
+- MARCIO DILAN: Tudo
+- RAY JOSÉ: Tudo
+- HIARLEY ALVES: Tudo
+
+(MENORES)
+- MAYCON VINYCIUS: Autorização, Certidão de nascimento, Identidade, Sus
+
+Direção Feminino: (Maiores de idade)
+- AMANDA ARAUJO: Tudo
+- ANA MARIA:  Certidão de nascimento, Identidade, Sus
+- LETICIA FERREIRA: Tudo
+- REBECA VIEIRA: Tudo
+- ADNA VIRNA: Tudo
+- MARIA EDUARDA: Autorização, Cadastro
+- ANA BEATRIZ: Tudo
+
+- (Menores)
+- ECHILLY GABRIELLY: Autorização
+
+Apoio:
+- VANESSA MARIA: Certidão de nascimento, Identidade, Sus
+- LEANDRO RODRIGUES: Tudo
+
+Unidade Jaguar:
+- LUIS EDUARDO: Autorização, Cadastro
+- MIGUEL ARTHUR: Tudo
+- ENDROW FRUTUOSO: Tudo 
+- MARIA LUIZA: Tudo
+ 
+Unidade Pantera Negra:
+- JOSÉ BENÍCIO: Tudo
+- ANTONIO FRANSCISCO: Tudo
+- ENZO ALEXANDRE: Autorização
+- DAVID KAYKE: Autorização, Cadastro
+- RENAN DE SOUSA: Tudo
+- LUÍS ALVES: Autorização, Certidão de nascimento, Identidade, Sus
+ 
+Unidade Tigresas:
+- EYCHILLA ALVES: Autorização
+- YASMIN BARROS:  Autorização, Cadastro, Certidão de nascimento,, Sus
+- LUCIANA MARIA: OK
+- GEOVANA MARCELA: Autorização, Certodão de nascimento
+ 
+Unidade Gatas:
+- MYCKAEL
+E JASMYN: Autorização e Certidão de nascimento
+- SOFIA EVYLIN: Autorização, Certidão de nascimento, Identidade, Sus
+- LYANDRA MARINA: Autorização, Certidão de nascimento, Identidade, Sus
+- MARIA CLARA: Tudo
+- MARIA MARCIA VICTÓRIA: Tudo
+- AMALYA FRUTUOSO: Tudo
